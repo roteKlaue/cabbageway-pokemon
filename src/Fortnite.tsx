@@ -4,7 +4,11 @@ import './App.css';
 function Fortnite() {
   return (
     <div className="App">
-      Fortnite
+      NO
+
+
+      fortnite is not class Apropriate
+      Lg
     </div>
   );
 }
