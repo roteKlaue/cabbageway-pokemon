@@ -4,7 +4,7 @@ import './App.css';
 function Fortnite() {
   return (
     <div className="App">
-      Fortnite
+      Fortnite 2
     </div>
   );
 }
