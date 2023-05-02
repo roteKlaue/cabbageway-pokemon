@@ -9,6 +9,7 @@ function Fortnite() {
 
       fortnite is not class Apropriate
       Lg
+      Fortnite 2
     </div>
   );
 }
